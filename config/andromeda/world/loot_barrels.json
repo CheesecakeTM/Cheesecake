@@ -1,5 +1,5 @@
 {
   "bootstrap": {
-    "enabled": false
+    "enabled": true
   }
 }

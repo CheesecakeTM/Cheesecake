@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"magnumtorch:emerald_magnum_torch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:basic_tier_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:basic_to_iron_tier_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

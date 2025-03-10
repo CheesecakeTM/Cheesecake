@@ -1,6 +1,6 @@
 {
   "bootstrap": {
-    "enabled": false
+    "enabled": true
   },
   "game": {
     "divergenceModifier": 0.2

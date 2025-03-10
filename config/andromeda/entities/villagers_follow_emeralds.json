@@ -1,6 +1,6 @@
 {
   "bootstrap": {
-    "enabled": false
+    "enabled": true
   },
   "game": {
     "available": true

@@ -25,7 +25,9 @@ mode = "fancy"
 				allay = true
 				skeleton = true
 				bat = true
+				frog = true
 				experience_bottle = true
+				armadillo = true
 				rabbit = true
 				silverfish = true
 				drowned = true
@@ -53,6 +55,7 @@ mode = "fancy"
 				iron_golem = true
 				cat = true
 				zombie = true
+				guardian = true
 				sheep = true
 				player = true
 				pufferfish = true
@@ -90,15 +93,18 @@ mode = "fancy"
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
+				copper_golem = true
 				moobloom = true
 				mauler = true
 				crab = true
 				rascal = true
 
 			[light_sources.settings.entities.wilderwild]
-				jellyfish = true
-				crab = true
+				scorched = true
 				firefly = true
+				jellyfish = true
+				ostrich = true
+				crab = true
 
 			[light_sources.settings.entities.mobs_of_mythology]
 				kobold_warrior = true
@@ -107,3 +113,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				oddion = true
+				man_o_war = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
